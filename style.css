@@ -1,0 +1,26 @@
+#WelcomeText{
+    margin: 0;
+}
+#WelcomeImg{
+    width: 8%;
+    height: 8%;
+    float: right;
+}
+#MiddleImg{
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+#BTTB{
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#BTT :hover{
+    font-size: 15px;
+}
+#ONB{
+    border-radius: 5px;
+}
+#ON :hover{
+    font-size: 15px;
+}
